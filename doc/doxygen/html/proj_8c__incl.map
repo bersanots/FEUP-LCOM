@@ -1,0 +1,11 @@
+<map id="proj.c" name="proj.c">
+<area shape="rect" id="node1" title=" " alt="" coords="278,5,332,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="374,155,452,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,80,118,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="142,80,207,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="232,80,293,107"/>
+<area shape="rect" id="node6" href="$constants_8h.html" title="Game constants and enumerations." alt="" coords="517,155,608,181"/>
+<area shape="rect" id="node7" href="$dispatcher_8h.html" title="Game state handling and event dispatching." alt="" coords="493,80,586,107"/>
+<area shape="rect" id="node8" href="$i8042_8h.html" title=" " alt="" coords="317,80,381,107"/>
+<area shape="rect" id="node9" href="$video_8h.html" title="Video card handling." alt="" coords="406,80,468,107"/>
+</map>

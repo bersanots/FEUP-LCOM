@@ -1,0 +1,5 @@
+<map id="keyboard.h" name="keyboard.h">
+<area shape="rect" id="node1" title="Keyboard device handling." alt="" coords="70,5,157,32"/>
+<area shape="rect" id="node2" href="$game__logic_8c.html" title=" " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html" title=" " alt="" coords="129,80,215,107"/>
+</map>

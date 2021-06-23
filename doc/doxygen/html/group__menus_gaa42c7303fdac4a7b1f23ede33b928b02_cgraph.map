@@ -1,0 +1,13 @@
+<map id="menus" name="menus">
+<area shape="rect" id="node1" title="Menus loop, handling the user&#39;s clicks on the screen." alt="" coords="5,183,67,209"/>
+<area shape="rect" id="node2" href="$group__menus.html#ga42f4903ab89aff9e3ee0206c52cf710a" title="Animate the mouse according to its attributes in memory. First erase it, then move it and finally red..." alt="" coords="140,5,235,32"/>
+<area shape="rect" id="node4" href="$group__mouse.html#gadd5673dbd192f17fe77e5dedf79983bd" title="Set the mouse data report mode (enable, disable, set stream mode, etc.)." alt="" coords="121,56,254,83"/>
+<area shape="rect" id="node6" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Handle mouse interrupts." alt="" coords="148,107,227,133"/>
+<area shape="rect" id="node7" href="$group__mouse.html#ga20285aed4b3ef45812cd967532dd09db" title="Subscribe to mouse interrupts." alt="" coords="115,157,260,184"/>
+<area shape="rect" id="node8" href="$group__mouse.html#ga2aab3212eba794122f5812bf9c3c88b8" title="Parse the mouse raw bytes and set the mouse packet attributes." alt="" coords="140,208,235,235"/>
+<area shape="rect" id="node9" href="$group__menus.html#gaaa4c2b06fcbf09b351c4167a0fa58c33" title="Set the mouse speed." alt="" coords="123,259,251,285"/>
+<area shape="rect" id="node10" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="127,309,248,336"/>
+<area shape="rect" id="node11" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title=" " alt="" coords="120,360,255,387"/>
+<area shape="rect" id="node3" href="$group__video.html#ga09cb0963b4f12461e3e294a2ee951655" title="Erase a pixmap from the screen." alt="" coords="308,5,411,32"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="314,81,405,108"/>
+</map>

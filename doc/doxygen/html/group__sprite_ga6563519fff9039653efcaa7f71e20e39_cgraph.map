@@ -1,0 +1,5 @@
+<map id="animate_sprites" name="animate_sprites">
+<area shape="rect" id="node1" title="Animate the sprites according to their attributes in memory. First erase them, then move them and fin..." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga9c7e23b48dc8ea0f565655744cbae06c" title="Erase the sprite &quot;sp&quot; from the screen." alt="" coords="168,5,261,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga09cb0963b4f12461e3e294a2ee951655" title="Erase a pixmap from the screen." alt="" coords="309,5,412,32"/>
+</map>

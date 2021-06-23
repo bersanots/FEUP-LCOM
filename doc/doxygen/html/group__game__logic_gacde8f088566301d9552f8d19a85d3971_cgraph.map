@@ -1,0 +1,4 @@
+<map id="goal_scored" name="goal_scored">
+<area shape="rect" id="node1" title="Check if a goal was scored." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$group__elements.html#ga5dc1970c29623c791496bb67ac95f12f" title="Get the game elements." alt="" coords="145,5,245,32"/>
+</map>

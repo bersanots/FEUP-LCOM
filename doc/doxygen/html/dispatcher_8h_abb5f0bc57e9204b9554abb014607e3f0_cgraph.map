@@ -1,0 +1,45 @@
+<map id="game_state" name="game_state">
+<area shape="rect" id="node1" title="Game state machine." alt="" coords="5,208,96,235"/>
+<area shape="rect" id="node2" href="$elements_8c.html#a28fe34a38f71947d401f0aaca80a7d70" title="Create all moving game elements as sprites." alt="" coords="159,5,277,32"/>
+<area shape="rect" id="node4" href="$menus_8c.html#adbcbc0c32d27663f192796d80b2669a4" title="Create a mouse object as a sprite." alt="" coords="166,56,270,83"/>
+<area shape="rect" id="node5" href="$elements_8c.html#a7c16b0a3eb143672e74ee2bedd0a8436" title="Erase the game elements from memory and release used resources." alt="" coords="155,157,281,184"/>
+<area shape="rect" id="node7" href="$menus_8c.html#ab6c3fd6194338e3fdc604fb9046d06a1" title="Erase the mouse sprite from memory and release used resources." alt="" coords="163,107,273,133"/>
+<area shape="rect" id="node8" href="$menus_8c.html#a1b93cf1c1837acdcd65677fd40e0e9df" title="Load the instructions pixmap and draw it on the screen." alt="" coords="157,208,279,235"/>
+<area shape="rect" id="node9" href="$menus_8c.html#ad7ca2d21a727f7d55afef2392de3b5f8" title="Load the main menu pixmap and draw it on the screen." alt="" coords="157,259,279,285"/>
+<area shape="rect" id="node10" href="$elements_8c.html#a444ea6f5ffd889cdaa1f953a59cef78b" title="Draw all the static (non&#45;movable) game elements (background, goals, scoreboard and time board)." alt="" coords="144,309,292,336"/>
+<area shape="rect" id="node15" href="$menus_8c.html#aa42c7303fdac4a7b1f23ede33b928b02" title="Menus loop, handling the user&#39;s clicks on the screen." alt="" coords="187,1259,249,1285"/>
+<area shape="rect" id="node26" href="$game__logic_8c.html#a6d58098c6cf63c241ed03bc797256bb1" title="Game loop, where a full game&#39;s logic is handled." alt="" coords="195,752,241,779"/>
+<area shape="rect" id="node3" href="$group__sprite.html#gab67f095900ba6092fed7f581886f28c6" title="Create with speeds and position (within the screen limits) a new sprite with pixmap &quot;xpm&quot;." alt="" coords="368,5,465,32"/>
+<area shape="rect" id="node6" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Erase the sprite from memory and release used resources." alt="" coords="365,132,469,159"/>
+<area shape="rect" id="node11" href="$elements_8c.html#aec18c086222dc26a3922c74f155acc56" title="Load the pitch pixmap and draw it as the game background." alt="" coords="355,195,478,221"/>
+<area shape="rect" id="node12" href="$elements_8c.html#a7ccca8bdf54128653e04b483f61d2c3d" title="Load both goals pixmaps and draw them on the screen." alt="" coords="373,245,460,272"/>
+<area shape="rect" id="node13" href="$elements_8c.html#ae621f77b903bc589198ba904aaf8f838" title="Load the scoreboard pixmap and draw it on the screen." alt="" coords="357,296,477,323"/>
+<area shape="rect" id="node14" href="$elements_8c.html#a2392e9dfd00d489e83bc57d3ca0b5b27" title="Load the time board pixmap and draw it on the screen." alt="" coords="357,347,477,373"/>
+<area shape="rect" id="node16" href="$menus_8c.html#a42f4903ab89aff9e3ee0206c52cf710a" title="Animate the mouse according to its attributes in memory. First erase it, then move it and finally red..." alt="" coords="547,1360,642,1387"/>
+<area shape="rect" id="node18" href="$mouse_8c.html#add5673dbd192f17fe77e5dedf79983bd" title="Set the mouse data report mode (enable, disable, set stream mode, etc.)." alt="" coords="350,1411,483,1437"/>
+<area shape="rect" id="node20" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Handle mouse interrupts." alt="" coords="377,1208,456,1235"/>
+<area shape="rect" id="node21" href="$mouse_8c.html#a20285aed4b3ef45812cd967532dd09db" title="Subscribe to mouse interrupts." alt="" coords="344,1259,489,1285"/>
+<area shape="rect" id="node22" href="$mouse_8c.html#a850f40a4a0e02cd5c959001f4ef72553" title="Parse the mouse raw bytes and set the mouse packet attributes." alt="" coords="369,1309,464,1336"/>
+<area shape="rect" id="node23" href="$menus_8c.html#aaa4c2b06fcbf09b351c4167a0fa58c33" title="Set the mouse speed." alt="" coords="353,1360,481,1387"/>
+<area shape="rect" id="node24" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="356,1107,477,1133"/>
+<area shape="rect" id="node25" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title=" " alt="" coords="349,1157,484,1184"/>
+<area shape="rect" id="node17" href="$video_8c.html#a09cb0963b4f12461e3e294a2ee951655" title="Erase a pixmap from the screen." alt="" coords="696,1183,799,1209"/>
+<area shape="rect" id="node19" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="549,1208,640,1235"/>
+<area shape="rect" id="node27" href="$group__sprite.html#ga6563519fff9039653efcaa7f71e20e39" title="Animate the sprites according to their attributes in memory. First erase them, then move them and fin..." alt="" coords="359,955,474,981"/>
+<area shape="rect" id="node28" href="$group__sprite.html#ga9c7e23b48dc8ea0f565655744cbae06c" title="Erase the sprite &quot;sp&quot; from the screen." alt="" coords="548,1005,641,1032"/>
+<area shape="rect" id="node29" href="$group__sprite.html#ga740994f8c16c38bf18eaabac1f5eeeb9" title="Draw the sprite &quot;sp&quot; on the screen." alt="" coords="373,397,461,424"/>
+<area shape="rect" id="node31" href="$elements_8c.html#a42a2af26988f294449695553b7e8b594" title="Load the winner message pixmap and draw it on the screen." alt="" coords="340,499,493,525"/>
+<area shape="rect" id="node32" href="$elements_8c.html#a5dc1970c29623c791496bb67ac95f12f" title="Get the game elements." alt="" coords="545,549,645,576"/>
+<area shape="rect" id="node33" href="$game__logic_8c.html#acde8f088566301d9552f8d19a85d3971" title="Check if a goal was scored." alt="" coords="371,448,463,475"/>
+<area shape="rect" id="node34" href="$game__logic_8c.html#a661c951e15aaaaa54ad7e7193ed45e4c" title="Handle the keyboard input, making the connection with player movement." alt="" coords="373,600,461,627"/>
+<area shape="rect" id="node37" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Handle keyboard interrupts." alt="" coords="387,1056,447,1083"/>
+<area shape="rect" id="node38" href="$keyboard_8c.html#a4ac9231a99a664d6a9f0b69767e0d707" title="Subscribe to keyboard interrupts." alt="" coords="353,651,480,677"/>
+<area shape="rect" id="node39" href="$keyboard_8c.html#aee0a7b54ee426fade9c780418d110fe0" title="Unsubscribe from keyboard interrupts." alt="" coords="346,701,487,728"/>
+<area shape="rect" id="node40" href="$elements_8c.html#a0f06385b2aa72e2acbcd2fbc3ac465f3" title="Reset the elements&#39; positions and speeds to their original ones." alt="" coords="361,752,472,779"/>
+<area shape="rect" id="node41" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title=" " alt="" coords="342,803,491,829"/>
+<area shape="rect" id="node42" href="$elements_8c.html#a07a953cc1848da4ca1185d443ee7f45a" title="Update the scores on the scoreboard and redraw it on the screen." alt="" coords="363,853,470,880"/>
+<area shape="rect" id="node43" href="$elements_8c.html#a1debc322d8e825ebe4ed306cf017a74e" title="Update the time on the time board and redraw it on the screen." alt="" coords="370,904,463,931"/>
+<area shape="rect" id="node30" href="$video_8c.html#a60f37137b819ec4153cd79bb5b7104df" title="Draw a pixmap on the screen." alt="" coords="545,397,644,424"/>
+<area shape="rect" id="node35" href="$group__sprite.html#gae1c524033bef096973447bfebb372b52" title="Clear the sprite&#39;s xspeed or yspeed according to the given direction." alt="" coords="541,600,648,627"/>
+<area shape="rect" id="node36" href="$group__sprite.html#ga99cb0341808e15bbfe86f258de3f21ea" title="Change the sprite&#39;s xspeed or yspeed according to the given direction." alt="" coords="547,651,643,677"/>
+</map>

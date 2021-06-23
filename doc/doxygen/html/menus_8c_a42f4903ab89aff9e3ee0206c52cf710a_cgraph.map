@@ -1,0 +1,4 @@
+<map id="draw_mouse" name="draw_mouse">
+<area shape="rect" id="node1" title="Animate the mouse according to its attributes in memory. First erase it, then move it and finally red..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$video_8c.html#a09cb0963b4f12461e3e294a2ee951655" title="Erase a pixmap from the screen." alt="" coords="148,5,251,32"/>
+</map>

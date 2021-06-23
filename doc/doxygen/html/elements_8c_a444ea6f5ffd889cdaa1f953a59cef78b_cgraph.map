@@ -1,0 +1,7 @@
+<map id="draw_static_elements" name="draw_static_elements">
+<area shape="rect" id="node1" title="Draw all the static (non&#45;movable) game elements (background, goals, scoreboard and time board)." alt="" coords="5,81,153,108"/>
+<area shape="rect" id="node2" href="$elements_8c.html#aec18c086222dc26a3922c74f155acc56" title="Load the pitch pixmap and draw it as the game background." alt="" coords="201,5,324,32"/>
+<area shape="rect" id="node3" href="$elements_8c.html#a7ccca8bdf54128653e04b483f61d2c3d" title="Load both goals pixmaps and draw them on the screen." alt="" coords="219,56,306,83"/>
+<area shape="rect" id="node4" href="$elements_8c.html#ae621f77b903bc589198ba904aaf8f838" title="Load the scoreboard pixmap and draw it on the screen." alt="" coords="203,107,323,133"/>
+<area shape="rect" id="node5" href="$elements_8c.html#a2392e9dfd00d489e83bc57d3ca0b5b27" title="Load the time board pixmap and draw it on the screen." alt="" coords="203,157,323,184"/>
+</map>

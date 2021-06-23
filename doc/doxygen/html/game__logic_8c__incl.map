@@ -1,0 +1,10 @@
+<map id="game_logic.c" name="game_logic.c">
+<area shape="rect" id="node1" title=" " alt="" coords="134,5,232,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="178,155,257,181"/>
+<area shape="rect" id="node3" href="$elements_8h.html" title="Game objects creation and handling." alt="" coords="24,80,110,107"/>
+<area shape="rect" id="node4" href="$sprite_8h.html" title="Sprite related functions." alt="" coords="34,155,100,181"/>
+<area shape="rect" id="node6" href="$game__logic_8h.html" title="Game loop and game logic handling." alt="" coords="386,80,484,107"/>
+<area shape="rect" id="node7" href="$i8042_8h.html" title=" " alt="" coords="186,80,250,107"/>
+<area shape="rect" id="node8" href="$keyboard_8h.html" title="Keyboard device handling." alt="" coords="274,80,361,107"/>
+<area shape="rect" id="node5" href="$constants_8h.html" title="Game constants and enumerations." alt="" coords="135,229,226,256"/>
+</map>

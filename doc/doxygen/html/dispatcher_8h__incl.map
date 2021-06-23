@@ -1,0 +1,5 @@
+<map id="dispatcher.h" name="dispatcher.h">
+<area shape="rect" id="node1" title="Game state handling and event dispatching." alt="" coords="53,5,146,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$constants_8h.html" title="Game constants and enumerations." alt="" coords="109,80,199,107"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="menus.c" name="menus.c">
+<area shape="rect" id="node1" title=" " alt="" coords="335,5,407,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="332,155,410,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="24,80,89,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="114,80,175,107"/>
+<area shape="rect" id="node5" href="$constants_8h.html" title="Game constants and enumerations." alt="" coords="676,155,767,181"/>
+<area shape="rect" id="node6" href="$i8042_8h.html" title=" " alt="" coords="199,80,263,107"/>
+<area shape="rect" id="node7" href="$menus_8h.html" title="Menu handling." alt="" coords="287,80,359,107"/>
+<area shape="rect" id="node8" href="$mouse_8h.html" title="Mouse device handling." alt="" coords="383,80,455,107"/>
+<area shape="rect" id="node9" href="$pixmaps_8h.html" title="Game pixel maps." alt="" coords="479,80,562,107"/>
+<area shape="rect" id="node10" href="$sprite_8h.html" title="Sprite related functions." alt="" coords="725,80,790,107"/>
+<area shape="rect" id="node11" href="$video_8h.html" title="Video card handling." alt="" coords="586,80,649,107"/>
+</map>

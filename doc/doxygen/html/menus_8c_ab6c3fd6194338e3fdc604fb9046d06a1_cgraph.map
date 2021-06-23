@@ -1,0 +1,4 @@
+<map id="destroy_mouse" name="destroy_mouse">
+<area shape="rect" id="node1" title="Erase the mouse sprite from memory and release used resources." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="Erase the sprite from memory and release used resources." alt="" coords="164,5,268,32"/>
+</map>

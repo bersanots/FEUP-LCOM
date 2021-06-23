@@ -1,0 +1,10 @@
+<map id="sprite.h" name="sprite.h">
+<area shape="rect" id="node1" title="Sprite related functions." alt="" coords="363,5,429,32"/>
+<area shape="rect" id="node2" href="$elements_8h.html" title="Game objects creation and handling." alt="" coords="234,80,321,107"/>
+<area shape="rect" id="node5" href="$game__logic_8c.html" title=" " alt="" coords="321,155,420,181"/>
+<area shape="rect" id="node6" href="$sprite_8c.html" title=" " alt="" coords="445,155,510,181"/>
+<area shape="rect" id="node8" href="$menus_8c.html" title=" " alt="" coords="459,80,531,107"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html" title=" " alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node4" href="$elements_8c.html" title=" " alt="" coords="123,155,210,181"/>
+<area shape="rect" id="node7" href="$video_8c.html" title=" " alt="" coords="234,155,297,181"/>
+</map>

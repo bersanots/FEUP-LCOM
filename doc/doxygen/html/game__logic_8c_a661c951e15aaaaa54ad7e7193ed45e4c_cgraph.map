@@ -1,0 +1,6 @@
+<map id="handle_kbd" name="handle_kbd">
+<area shape="rect" id="node1" title="Handle the keyboard input, making the connection with player movement." alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gae1c524033bef096973447bfebb372b52" title="Clear the sprite&#39;s xspeed or yspeed according to the given direction." alt="" coords="141,5,248,32"/>
+<area shape="rect" id="node3" href="$elements_8c.html#a5dc1970c29623c791496bb67ac95f12f" title="Get the game elements." alt="" coords="145,56,245,83"/>
+<area shape="rect" id="node4" href="$group__sprite.html#ga99cb0341808e15bbfe86f258de3f21ea" title="Change the sprite&#39;s xspeed or yspeed according to the given direction." alt="" coords="147,107,243,133"/>
+</map>

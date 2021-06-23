@@ -1,0 +1,4 @@
+<map id="create_elements" name="create_elements">
+<area shape="rect" id="node1" title="Create the game movable elements (players and ball) as sprites." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gab67f095900ba6092fed7f581886f28c6" title="Create with speeds and position (within the screen limits) a new sprite with pixmap &quot;xpm&quot;." alt="" coords="172,5,269,32"/>
+</map>

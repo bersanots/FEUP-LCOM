@@ -1,0 +1,4 @@
+<map id="map_vram" name="map_vram">
+<area shape="rect" id="node1" title="Map physical memory to the process&#39; (virtual) address space and get screen attributes." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$video_8c.html#a4710acc1398239313ae2cba7b2259bc8" title="Use the VBE function 01 to get the VBE Mode Info Block." alt="" coords="135,5,267,32"/>
+</map>

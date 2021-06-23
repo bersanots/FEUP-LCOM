@@ -1,0 +1,4 @@
+<map id="draw_sprite" name="draw_sprite">
+<area shape="rect" id="node1" title="Draw the sprite &quot;sp&quot; on the screen." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$group__video.html#ga60f37137b819ec4153cd79bb5b7104df" title="Draw a pixmap on the screen." alt="" coords="141,5,240,32"/>
+</map>
